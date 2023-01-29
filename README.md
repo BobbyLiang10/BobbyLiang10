@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# :wave: Hello!
+:sunglasses: My name is Bobby, a second-year statistics student at the University of Waterloo!
+
+
 <!--
 **BobbyLiang10/BobbyLiang10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
