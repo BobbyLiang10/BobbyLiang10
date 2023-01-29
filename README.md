@@ -1,8 +1,12 @@
-### Hi there 👋
 
-# :wave: Hello!
-:sunglasses: My name is Bobby, a second-year statistics student at the University of Waterloo!
+### :wave: Hello!
+- :sunglasses: My name is Bobby, a second-year statistics student at the University of Waterloo.
 
+- :computer: I have experience working in C, Python, SQL, React, JavaScript R, most proficient using Java.
+
+- 🌱 I’m currently interested in learning more about data science, machine learning, and developing my Python programming capabilities.
+
+- 📫 How to reach me: b48liang@uwaterloo.ca
 
 <!--
 **BobbyLiang10/BobbyLiang10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
