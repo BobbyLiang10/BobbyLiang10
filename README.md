@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+:wave: Hello!
+:sunglasses: My name is Bobby, a second-year statistics student at the University of Waterloo!
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
