@@ -2,7 +2,7 @@
 ### :wave: Hello!
 - :sunglasses: My name is Bobby, a second-year statistics student at the University of Waterloo.
 
-- :computer: I have experience working in C, Python, SQL, React, JavaScript R, most proficient using Java.
+- :computer: I have experience working in C, Python, SQL, React, JavaScript, R, most proficient using Java.
 
 - 🌱 I’m currently interested in learning more about data science, machine learning, and building on my Python programming knowledge.
 
