@@ -4,7 +4,7 @@
 
 - :computer: I have experience working in C, Python, SQL, React, JavaScript R, most proficient using Java.
 
-- 🌱 I’m currently interested in learning more about data science, machine learning, and developing my Python programming capabilities.
+- 🌱 I’m currently interested in learning more about data science, machine learning, and building on my Python programming knowledge.
 
 - 📫 How to reach me: b48liang@uwaterloo.ca
 
