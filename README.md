@@ -1,6 +1,6 @@
 
 ### :wave: Hello!
-- :sunglasses: My name is Bobby, a second-year statistics student at the University of Waterloo.
+- :sunglasses: My name is Bobby, a third-year statistics student at the University of Waterloo.
 
 - :computer: I have experience working in C, Python, SQL, React, JavaScript, R, most proficient using Java.
 
